@@ -1,0 +1,9 @@
+[package]
+name = "mosim"
+version = "0.1.0"
+authors = ["Benjamin Bollen <ben@ost.com>"]
+
+[dependencies]
+log = "^0.4.3"
+simple_logger = "^0.5.0"
+ethereum-types = "0.4"
